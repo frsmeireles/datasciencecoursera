@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592664578408.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3398810732",
+    "id" : "1BFF05CF",
+    "lastKnownWriteTime" : 1592664515,
+    "last_content_update" : 1592664515,
+    "path" : "~/Documents/MyFirstProject/HelloWorld.md",
+    "project_path" : "HelloWorld.md",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
